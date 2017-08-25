@@ -178,6 +178,7 @@ img { max-width: 100%; }
 }
 .text-detail {
   margin-top: 30px;
+  
   color: #5f5f5f;
 }
 
@@ -460,7 +461,7 @@ h5 {
 }
 p {
   letter-spacing: 0.5px;
-  font-size: 13px;
+  font-size: 18px;
   line-height: 34px;
   font-weight: 300;
 }
@@ -474,7 +475,7 @@ p {
   line-height: 26px;
   letter-spacing: 1.5px;
   margin: 0 auto;
-  opacity: 0.6;
+  opacity: 0.9;
 }
 .year {
   font-size: 26px;
@@ -488,13 +489,13 @@ p {
   line-height: 14px;
   letter-spacing: 0.4px;
   text-transform: uppercase;
-  color: #cccccc;
+  color: black;
 }
 .company {
-  font-size: 12px;
+  font-size: 15px;
   line-height: 14px;
   border: 1px solid #ececec;
-  color: #cccccc;
+  color: black;
   padding:8px 10px;
   border-radius: 6px;
   display: inline-block;
@@ -1262,3 +1263,7 @@ ul.portfolio-image li .desc{
 }
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
+
+#res{
+    width: 100px;
+}
